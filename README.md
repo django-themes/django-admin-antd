@@ -1,10 +1,15 @@
-# django-admin-antd
-A custom Django admin interface styled with [Ant Design](https://ant.design/).   This theme gives the Django admin panel a modern, clean, and responsive look using Ant Design components.
+# 🧩 Django Admin Ant Design Theme
 
-## 🚀 Features
+A modern, clean, and responsive custom Django Admin UI powered by [Ant Design](https://ant.design/).  
+This package overrides default Django admin templates and injects Ant Design components to enhance user experience, layout aesthetics, and interactivity.
 
-- Ant Design styled base template
-- Fully responsive layout
-- Custom login and dashboard
-- Works with Django 3.x and 4.x
-- Easily extendable with custom Ant Design components
+---
+
+## ✨ Features
+
+- ✅ Ant Design layout with sidebar, breadcrumbs, and layout spacing
+- 🎨 Clean typography, consistent color palette, and custom icons
+- 🔐 Custom login page with Ant Design form styling
+- 📱 Fully responsive (mobile-friendly)
+- 🧩 Easily extendable for custom dashboards or admin views
+- ⚙️ Django 3.x & 4.x compatible
