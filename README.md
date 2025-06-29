@@ -1,3 +1,5 @@
+![django-admin-antd-banner](https://github.com/user-attachments/assets/b2e33c35-d18e-42dc-9dff-183e898095dd)
+
 # 🧩 Django Admin Ant Design Theme
 
 A modern, clean, and responsive custom Django Admin UI powered by [Ant Design](https://ant.design/).  
